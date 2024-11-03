@@ -7,7 +7,7 @@
 A modified version of [Derek Yu's](https://en.wikipedia.org/wiki/Derek_Yu) game [Spelunky Classic](https://spelunkyworld.com/original.html). Based on the source code published in **Humble Weekly Bundle: Play and Create with GameMaker** (not original 1.1 release).
 
 ## New in this version:
-- Compatibily with 64bit Gamemaker (GMS LTS)
+- Compatibility with 64bit Gamemaker (GMS LTS)
 - builds for different operating systems
 - different aspect ratios (originally 4:3 only)
 - touch input
