@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "electronExtension",
+    "path": "extensions/electronExtension/electronExtension.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "html5DisableLoadBar",
+    "path": "extensions/html5DisableLoadBar/html5DisableLoadBar.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

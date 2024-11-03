@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "html5Extension",
+    "path": "extensions/html5Extension/html5Extension.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}
